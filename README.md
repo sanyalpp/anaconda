@@ -7,6 +7,7 @@ Coding by : Partha Pratim Sanyal. 3rd yr IT.
 Maulana Azad National Institute of Technology. Bhopal 462007.
 For further queries please feel  free to contact us at:partha.pratim.sanyal@gmail.com
                                                        moksh_walia@yahoo.co.in 
+The source code is in C                                                       
 ======================================
 Disclaimer:-
 1)You can change the source code which I have made available in order to modify the game, but please do inform me about the changes you have made , as it would be of immense help to me. 
