@@ -1,7 +1,7 @@
 /*                                                                         */
 /*	 		      ANACONDA  (GAME)                              */
 /*                                                                         */
-/*	 		COPYRIGHT (C) 2003 and beyond  BY  Partha Pratim Sanyal       */
+/*	 		COPYRIGHT (C) 2018 and beyond  BY  Partha Pratim Sanyal       */
 /*                      B.E(INFORMATION TECHNOLOGY)  IIIrd YR              */
 /*	   FOR SUGGESTIONS contact me at partha_mact@rediffmail.com	   */
 /*                                                                         */
