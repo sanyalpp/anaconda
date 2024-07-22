@@ -9,9 +9,10 @@ For further queries please feel  free to contact us at:partha.pratim.sanyal@gmai
 The source code is in C                                                       
 
 Disclaimer
-1)You can change the source code which I have made available in order to modify the game, but please do inform me about the changes you have made , as it would be of immense help to me. 
-2)You could also see the source code for the purpose of learning.
-3)Finally a request, please dont copy the entire program and make it available in your name , as it is ethically incorrect.
+
+* You can change the source code which I have made available in order to modify the game, but please do inform me about the changes you have made , as it would be of immense help to me. 
+* You could also see the source code for the purpose of learning.
+* Finally a request, please dont copy the entire program and make it available in your name , as it is ethically incorrect.
 
 # System Compatibility
 1)The game is to be installed in Microsoft Windows 98/NT/Windows XP platform.
