@@ -16,7 +16,7 @@ Disclaimer
 
 # System Compatibility
 * The game is to be installed in Microsoft Windows 98/NT/Windows XP platform.* When the game is installed , a folder named Source Code is created in the corresponding installtion path you choose , it contains the code .Never remove any of the files in the game folder otherwise the game will not run.
-* * This program can run on a sysytem of atleast 64 MB RAM.
+* This program can run on a sysytem of atleast 64 MB RAM.
 * You need to have inbuilt PC speakers in order to hear the tune associated with the game. At times your external PC speaker can catch the tune and you can hear it directly from your sound blaster.
 * Your monitor should have atleast a resolution of 640X480 using 16 colors.
 
