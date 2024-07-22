@@ -50,6 +50,6 @@ When you run the exe file follow the following steps:
 2. The snake enhances its body by two bits when it eats a green colored food.
 3. Th Blue bits are hurdles, always avoid them, if you wanna keep your snake alive.
 4. If the snake touches its own body , it dies.
-5. 
+
 So , I fully anticipate that you enjoy the game which emulates the snake available on the mobile sets.
 
