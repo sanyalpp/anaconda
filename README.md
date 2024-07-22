@@ -5,7 +5,7 @@ Coding by : Partha Pratim Sanyal. 3rd yr IT.
                       &
             Moksh Walia .3rd yr IT.
 Maulana Azad National Institute of Technology. Bhopal 462007.
-For further queries please feel  free to contact us at:partha.pratim.sanyal@gmail.com, moksh_walia@yahoo.co.in 
+For further queries please feel  free to contact us at:partha.pratim.sanyal@gmail.com, moksh_walia@yahoo.co.in.
 The source code is in C                                                       
 
 Disclaimer
